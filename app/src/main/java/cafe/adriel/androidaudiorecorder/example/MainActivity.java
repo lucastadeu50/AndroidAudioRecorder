@@ -7,10 +7,12 @@ import android.os.Bundle;
 import android.os.Environment;
 import android.support.v4.content.ContextCompat;
 import android.support.v7.app.AppCompatActivity;
+import android.support.v7.appcompat.*;
 import android.view.View;
 import android.widget.Toast;
 
 import cafe.adriel.androidaudiorecorder.AndroidAudioRecorder;
+
 import cafe.adriel.androidaudiorecorder.model.AudioChannel;
 import cafe.adriel.androidaudiorecorder.model.AudioSampleRate;
 import cafe.adriel.androidaudiorecorder.model.AudioSource;
